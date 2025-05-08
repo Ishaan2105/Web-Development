@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+
+<class>
+  <student rollno="101">
+    <firstname>John</firstname>
+    <lastname>Doe</lastname>
+    <nickname>Johnny</nickname>
+    <marks>85</marks>
+  </student>
+  <student rollno="102">
+    <firstname>Jane</firstname>
+    <lastname>Smith</lastname>
+    <nickname>Janie</nickname>
+    <marks>92</marks>
+  </student>
+  <student rollno="103">
+    <firstname>Robert</firstname>
+    <lastname>Johnson</lastname>
+    <nickname>Bob</nickname>
+    <marks>78</marks>
+  </student>
+</class>
